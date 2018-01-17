@@ -5,6 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
+* bundle install
+
+* rails db:migrate
+
+* rails db:seed
+
 * Ruby version
 
 * System dependencies
